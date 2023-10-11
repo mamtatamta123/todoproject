@@ -1,1 +1,1 @@
-# todoproject
+I developed a user-friendly To-Do List Application using Python and the tkinter library. This project allows users to efficiently manage their tasks by providing features to add, delete, load, and save tasks. The application also includes a graphical user interface for an intuitive user experience.
